@@ -46,6 +46,17 @@ This theory was publicly introduced on **July 13, 2025**, via Substack:
 
 ---
 
+## 🧠 Challenges & Responses
+
+[Link to full discussion on Substack](https://teddkanakaris.substack.com/p/challenging-gst)
+
+- Why hasn't this mass been directly detected?
+- What about the equivalence principle?
+- Can it account for cosmic acceleration?
+- Is this a modern aether?
+
+➤ See [Substack post](https://teddkanakaris.substack.com/p/challenging-gravitational-substrate) for detailed responses
+
 ## 👤 Author
 
 **Tedd Kanakaris**  
