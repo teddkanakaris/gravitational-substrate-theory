@@ -19,8 +19,8 @@
 
 Tedd Kanakaris  
 Musician | Visual Thinker | Advisor to Creative Entrepreneurs  
-ORCID: _Add your ID here_  
-Substack: _Link coming soon_
+ORCID: _0009-0004-7918-1621_  
+Substack: _(https://teddkanakaris.substack.com/)_
 
 ---
 
