@@ -48,7 +48,7 @@ This theory was publicly introduced on **July 13, 2025**, via Substack:
 
 ## 🧠 Challenges & Responses
 
-[Link to full discussion on Substack]([https://teddkanakaris.substack.com/p/challenging-gst](https://substack.com/home/post/p-168236620))
+[Link to full discussion on Substack](https://substack.com/home/post/p-168236620)
 
 - Why hasn't this mass been directly detected?
 - What about the equivalence principle?
