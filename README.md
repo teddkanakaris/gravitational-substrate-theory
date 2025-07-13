@@ -30,11 +30,11 @@ Substack: _(https://teddkanakaris.substack.com/)_
 
 ## 📜 License
 
-- **Code** in this repository is provided under the [MIT License](LICENSE.md)
-- **Theory, presentation, and written content** (PDF, README, diagrams) are licensed under:
+- All **code** in this repository is licensed under the [MIT License](LICENSE.md)
+- All **theory content, presentation, and diagrams** are licensed under:
 
 [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-You may share and adapt the work with attribution, but not for commercial use. For permissions beyond the scope of this license, please contact the author.
+> For commercial or publishing inquiries, contact the author: **tkanakaris@sandpiperwealth.com**
 
