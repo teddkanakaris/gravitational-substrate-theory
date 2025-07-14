@@ -57,7 +57,18 @@ This theory was publicly introduced on **July 13, 2025**, via Substack:
 
 ➤ See [Substack post](https://teddkanakaris.substack.com/p/challenging-gravitational-substrate) for detailed responses
 
-## 👤 Author
+---
+
+## 👤 About the Author
+
+**Tedd Kanakaris** is a visual thinker, musician, and advisor to creative entrepreneurs who has spent his life following structure—across music, finance, relationships, and now, perhaps gravity.
+
+Raised largely by his grandfather, a mechanical designer who studied at the University of Chicago after WWII and later helped design the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory, Tedd was immersed early in the visual and spatial language of science.
+
+Though not formally trained in physics, Tedd developed an intuitive sense for motion, pattern, and resonance. **Gravitational Substrate Theory (GST)** is his attempt to reconcile modern cosmology with that lifelong visualization practice—and, in many ways, to finally communicate with the man who inspired it all.
+
+Tedd lives in New York with his family, plays piano by instinct and believes creativity is a form of scientific method.
+
 
 **Tedd Kanakaris**  
 Musician 🎹 | Visual Thinker 🧠 | Advisor to Creative Entrepreneurs 💡  
